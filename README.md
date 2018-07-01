@@ -4,7 +4,6 @@ This is a simple react app that Allow you to search for books and categorize the
 ## Table of Contents
 
 * [Getting Started](#Getting)
-* [Demo](#Demo)
 
 
 
@@ -14,7 +13,3 @@ This is a simple react app that Allow you to search for books and categorize the
 3. 'npm start' to start the app
 4. Open 'http://localhost:3000/' on web browser.
 
-
-## Demo
-
-Here is a working live demo :  'https://abdullah-alqahtani.github.io/myreads/'
