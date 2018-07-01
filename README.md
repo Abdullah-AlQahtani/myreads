@@ -3,7 +3,7 @@ This is a simple react app that Allow you to search for books and categorize the
 
 ## Table of Contents
 
-* [Getting Started](#Getting Started)
+* [Getting Started](#Getting)
 * [Demo](#Demo)
 
 
